@@ -1,7 +1,7 @@
 
     .btn-delete {
         border-radius: 5px;
-        color: white ;
+        color: blueviolet;
         border: 1px solid brown ; 
         padding: 5px;
         background-color: burlywood;
@@ -9,13 +9,33 @@
 
     .btn-save {
         border-radius: 5px;
-        color: white ;
+        color: blueviolet ;
         border: 1px solid brown;
         padding: 5px;
         background-color: paleturquoise;
     }
     
+    .btn-title {
+        border-radius: 10px;
+        color: red;
+        border: 1px solid black;
+        padding: 3px;
+        background-color: whitesmoke;
+    }
 
+    .btn-organisasi {
+        border-radius: 10px;
+        color: red;
+        border: 1px solid black;
+        padding: 3px;
+        background-color: whitesmoke;
+    }
+
+    .my-css-rule {
+        background: pink;
+        color: white;
+        font-size: 1,2 rem;
+    }
 
 
         
